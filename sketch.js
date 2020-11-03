@@ -52,10 +52,6 @@ function draw()
     sling3.display();
     sling4.display();
     sling5.display();
-    fill("white");
-    textSize(20);
-    text("Pull The Pendulum Which Is In The Left Side And Release It",10,30);
-
 
 }
 function mouseDragged()
